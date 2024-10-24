@@ -9,9 +9,21 @@ En este trabajo nos enfocamos en el **front-end** haciendo uso de **HTML**, **CS
 - **Modificar productos**: Actualiza los detalles de los productos existentes.
 - **Eliminar productos**: Elimina productos de la lista.
 
+## Requisitos:
+
+- Tener instalado Visual Studio Code
+
 ## Instrucciones de Uso
 
-1. Haz clic en el botón "Code".
-2. Selecciona "Download ZIP".
-3. Descomprime el archivo.
-4. Abre `index.html` en tu navegador.
+1. Descomprime el archivo.
+2. Abrirlo con el Visual.
+3. Hacer click en `Go Live`.
+
+
+**La página no tiene cargado productos**
+
+**A continuacion dejo unas imagenes para poder subirlas:**
+
+- Hamburguesa: https://www.carniceriademadrid.es/wp-content/uploads/2022/09/smash-burger-que-es.jpg
+- Papas: https://www.baenegocios.com/__export/1724104657525/sites/cronica/img/2024/08/19/ai-generated-8687913_1920.jpg_1402874324.jpg
+- Gaseosa: https://www.hosteleriasalamanca.es/fotos/1508239890.9387.jpg
